@@ -4,7 +4,9 @@
 }
 
 body{
+    background: linear-gradient(135deg, rgb(236, 234, 240) 23%, rgb(84, 84, 86) 100%); 
     font-family: 'Poppins', sans-serif;
+    
 }
 
 h1{
